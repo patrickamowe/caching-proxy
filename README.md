@@ -5,6 +5,7 @@
 
 It acts as a simple caching layer between your client and the origin server — great for learning, testing, or optimizing APIs.
 
+🔗 **Project Page:** [GitHub Repository](https://github.com/patrickamowe/caching-proxy)
 ---
 
 ## ⚙️ Installation
