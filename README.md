@@ -1,14 +1,14 @@
 # caching-proxy
 
-## 📘 Description
+## Description
 **caching-proxy** is a lightweight CLI tool built in Python that caches and retrieves HTTP requests to improve speed and reduce redundant API calls.
 
 It acts as a simple caching layer between your client and the origin server — great for learning, testing, or optimizing APIs.
 
-🔗 **Project URL:** https://roadmap.sh/projects/caching-server
+**This Project Was Inspire By:** https://roadmap.sh/projects/caching-server
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Steps to Install
 
@@ -46,7 +46,7 @@ It acts as a simple caching layer between your client and the origin server — 
 
 ---
 
-## 🚀 Running and Testing
+## Running and Testing
 
 1. **Start the proxy server** on your terminal
    ```bash
@@ -94,7 +94,7 @@ It acts as a simple caching layer between your client and the origin server — 
 
 ---
 
-## 🌍 Using a Browser
+## Using a Browser
 You can also make requests directly from your browser by visiting:
 ```
 http://localhost:3000/products
@@ -107,5 +107,5 @@ http://localhost:3000/clear-cache
 
 ---
 
-## 📘 License
+## License
 This project is licensed under the MIT License.

@@ -1,3 +1,8 @@
+# Virtual environment folder
 .venv
+
+# Pre-compiled bytecode
 __pycache__/
+
+# Pycharm setting folder
 .idea
